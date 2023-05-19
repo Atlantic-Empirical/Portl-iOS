@@ -1,0 +1,15 @@
+Carthage
+.idea/
+ABAllocator.xcodeproj/xcuserdata/
+ABAllocator.xcodeproj/project.xcworkspace/
+*.swp
+build.output
+build/
+pkg/
+.idea/
+target/
+xcuserdata
+xcodebuild/
+test/test_output/
+debug.log
+crashlytics-dsym-debug.txt

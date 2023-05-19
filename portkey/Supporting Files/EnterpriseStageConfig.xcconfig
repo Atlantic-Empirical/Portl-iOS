@@ -1,0 +1,9 @@
+//
+//  Config.xcconfig
+//  portkey
+//
+//  Created by Nick Galasso on 1/25/17.
+//  Copyright © 2017 Airtime Media. All rights reserved.
+//
+
+PRODUCT_BUNDLE_IDENTIFIER = com.signal.portkey.enterprise-stage;

@@ -1,0 +1,198 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4EC1945B43D2D81E6C6A114D24F669FF3794B04E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0" : 9223372036854775807,
+    "0A959C88AC07FF3B7A809BFB89EA1C760CD1610F" : 9223372036854775807,
+    "E8E34B4630E197917D041CB7D1AF125AB4FE6C56" : 9223372036854775807,
+    "49265CDAA14E021B371DDA1315BAEE6D6EB480AD" : 9223372036854775807,
+    "BB9E48573C7ADC4573DA1A55C95233318827B127" : 9223372036854775807,
+    "CEE4639180816A8F31C66F2A753583C27BBCB6D9" : 9223372036854775807,
+    "364D2E5F611143E7C4D0A99C691B1988FBD5381F" : 9223372036854775807,
+    "01C4019DAB2F13C7FB458F088D0A991884C46F1A" : 9223372036854775807,
+    "81BAFF959B532481BF171BB48EE80F3040A37FF9" : 9223372036854775807,
+    "4EC1945B43D2D81E6C6A114D24F669FF3794B04E" : 9223372036854775807,
+    "78F2926758E687B84D8D04231E7689B87324177C" : 9223372036854775807,
+    "B1BA979373DF533BBA805ACC4A8BB4AE14D58B35" : 9223372036854775807,
+    "2FBF6FF867B676467411255C927B9FD8739B9AC2" : 9223372036854775807,
+    "00DEE37500E6C7998F4D113C875F3996AE26D5BE" : 9223372036854775807,
+    "2F24C7ABC659AFF86BEF70BD7DCAF0EF1B9AD29C" : 9223372036854775807,
+    "097C839C43B4A69BB2A778F86B6552B21877BAA6" : 9223372036854775807,
+    "1929DBD069E43FB109A10D27981BC0AD82070E33" : 9223372036854775807,
+    "16ACBFB590A9E1151B4BE762DC3AC04A938B37EF" : 9223372036854775807,
+    "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8" : 9223372036854775807,
+    "FA14064293C292ED23803E7C0CAF03ECB298C429" : 9223372036854775807,
+    "7070BA961BCA286ED2393408B1E3D78393C99B33" : 9223372036854775807,
+    "DD781F448C175D65CBCB5E3915D8DC50FE08DF62" : 9223372036854775807,
+    "22D544D9B3EAA35CDDFE6ABB228157E6043DA9A8" : 9223372036854775807,
+    "5B3EB95C027941551540D502D20BCE33FBFABC81" : 9223372036854775807,
+    "A92F984637B9EAE95E95252EC6CBD8DE42DB61D1" : 9223372036854775807,
+    "1C75F1C5CFCB95B3702F6F632FA05ED5244B519E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "438C4241-D0D1-4D48-9DD9-1DB1BB9D1D67",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0" : "portkey\/portkey\/External\/FLAnimatedImage\/",
+    "0A959C88AC07FF3B7A809BFB89EA1C760CD1610F" : "portkey\/portkey\/External\/SWTableViewCell\/",
+    "E8E34B4630E197917D041CB7D1AF125AB4FE6C56" : "portkey\/portkey\/External\/carmel-bin\/",
+    "49265CDAA14E021B371DDA1315BAEE6D6EB480AD" : "portkey\/portkey\/External\/AppsFlyer\/",
+    "BB9E48573C7ADC4573DA1A55C95233318827B127" : "portkey\/portkey\/External\/YTVimeoExtractor\/",
+    "CEE4639180816A8F31C66F2A753583C27BBCB6D9" : "portkey\/portkey\/External\/FlagKit\/",
+    "364D2E5F611143E7C4D0A99C691B1988FBD5381F" : "portkey\/portkey\/External\/Cartography\/",
+    "01C4019DAB2F13C7FB458F088D0A991884C46F1A" : "portkey\/portkey\/External\/SocketIO\/",
+    "81BAFF959B532481BF171BB48EE80F3040A37FF9" : "portkey\/portkey\/External\/FXKeychain\/",
+    "4EC1945B43D2D81E6C6A114D24F669FF3794B04E" : "portkey\/",
+    "78F2926758E687B84D8D04231E7689B87324177C" : "portkey\/portkey\/External\/snoke-ios\/",
+    "B1BA979373DF533BBA805ACC4A8BB4AE14D58B35" : "portkey\/portkey\/External\/RFQuiltLayout\/",
+    "2FBF6FF867B676467411255C927B9FD8739B9AC2" : "portkey\/portkey\/External\/Segment\/",
+    "00DEE37500E6C7998F4D113C875F3996AE26D5BE" : "portkey\/portkey\/External\/SVWebViewController\/",
+    "2F24C7ABC659AFF86BEF70BD7DCAF0EF1B9AD29C" : "portkey\/portkey\/External\/Spotify\/",
+    "097C839C43B4A69BB2A778F86B6552B21877BAA6" : "portkey\/portkey\/External\/Appboy-iOS-SDK\/",
+    "1929DBD069E43FB109A10D27981BC0AD82070E33" : "portkey\/portkey\/External\/Branch\/",
+    "16ACBFB590A9E1151B4BE762DC3AC04A938B37EF" : "portkey\/portkey\/External\/mixpanel-iphone\/",
+    "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8" : "portkey\/portkey\/External\/AFNetworking\/",
+    "FA14064293C292ED23803E7C0CAF03ECB298C429" : "portkey\/portkey\/External\/Segment-Appboy\/",
+    "7070BA961BCA286ED2393408B1E3D78393C99B33" : "portkey\/portkey\/External\/Reachability\/",
+    "DD781F448C175D65CBCB5E3915D8DC50FE08DF62" : "portkey\/portkey\/External\/tecate-proto\/",
+    "22D544D9B3EAA35CDDFE6ABB228157E6043DA9A8" : "portkey\/portkey\/External\/FXBlurView\/",
+    "5B3EB95C027941551540D502D20BCE33FBFABC81" : "portkey\/portkey\/External\/libPhoneNumber\/",
+    "A92F984637B9EAE95E95252EC6CBD8DE42DB61D1" : "portkey\/portkey\/External\/TPCircularBuffer\/",
+    "1C75F1C5CFCB95B3702F6F632FA05ED5244B519E" : "portkey\/portkey\/External\/CocoaAsyncSocket\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "portkey",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "portkey.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:TransitApp\/SVWebViewController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "00DEE37500E6C7998F4D113C875F3996AE26D5BE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:socketio\/socket.io-client-swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "01C4019DAB2F13C7FB458F088D0A991884C46F1A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Appboy\/appboy-ios-sdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "097C839C43B4A69BB2A778F86B6552B21877BAA6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:airtimemedia\/SWTableViewCell.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0A959C88AC07FF3B7A809BFB89EA1C760CD1610F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:mixpanel\/mixpanel-iphone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "16ACBFB590A9E1151B4BE762DC3AC04A938B37EF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:BranchMetrics\/ios-branch-deep-linking.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1929DBD069E43FB109A10D27981BC0AD82070E33"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:robbiehanson\/CocoaAsyncSocket.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1C75F1C5CFCB95B3702F6F632FA05ED5244B519E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:nicklockwood\/FXBlurView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "22D544D9B3EAA35CDDFE6ABB228157E6043DA9A8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:spotify\/ios-sdk",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2F24C7ABC659AFF86BEF70BD7DCAF0EF1B9AD29C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:segmentio\/analytics-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2FBF6FF867B676467411255C927B9FD8739B9AC2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:robb\/Cartography",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "364D2E5F611143E7C4D0A99C691B1988FBD5381F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:AppsFlyerSDK\/AppsFlyerFramework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "49265CDAA14E021B371DDA1315BAEE6D6EB480AD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/airtimemedia\/portkey.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4EC1945B43D2D81E6C6A114D24F669FF3794B04E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:iziz\/libPhoneNumber-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5B3EB95C027941551540D502D20BCE33FBFABC81"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:tonymillion\/Reachability.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7070BA961BCA286ED2393408B1E3D78393C99B33"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:airtimemedia\/snoke-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "78F2926758E687B84D8D04231E7689B87324177C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:nicklockwood\/FXKeychain.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "81BAFF959B532481BF171BB48EE80F3040A37FF9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:michaeltyson\/TPCircularBuffer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A92F984637B9EAE95E95252EC6CBD8DE42DB61D1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:bryceredd\/RFQuiltLayout.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B1BA979373DF533BBA805ACC4A8BB4AE14D58B35"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:lilfaf\/YTVimeoExtractor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BB9E48573C7ADC4573DA1A55C95233318827B127"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Flipboard\/FLAnimatedImage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CADC4D1B031AED4FEFB66A1DCF54AE5FF592E1F0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:madebybowtie\/FlagKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CEE4639180816A8F31C66F2A753583C27BBCB6D9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:AFNetworking\/AFNetworking.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD20A1A48C66B5213E0FEBB87A95EF51D6C6F3E8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:airtimemedia\/tecate-proto",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD781F448C175D65CBCB5E3915D8DC50FE08DF62"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:airtimemedia\/carmel-bin.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E8E34B4630E197917D041CB7D1AF125AB4FE6C56"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:airtimemedia\/appboy-segment-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FA14064293C292ED23803E7C0CAF03ECB298C429"
+    }
+  ]
+}
